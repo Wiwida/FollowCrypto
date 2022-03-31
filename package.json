@@ -9,6 +9,8 @@
     "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore"
   },
   "dependencies": {
+    "primevue": "^3.12.4",
+    "sass": "^1.49.10",
     "vue": "^3.2.31",
     "vue-router": "^4.0.12"
   },
